@@ -32,6 +32,8 @@ Para instalar las dependencias del proyecto, sigue estos pasos:
 
 Esto instalará todas las dependencias necesarias para el proyecto, que están definidas en el archivo package.json. Como la carpeta node_modules está ignorada en GitHub, este paso es necesario para instalar todas las bibliotecas y paquetes que el proyecto utiliza.
 
+** En caso de ser necesario instala Vite en tu proyecto
+
 # Uso
 Una vez que hayas instalado las dependencias, puedes iniciar el proyecto con npx dev . Esto debería iniciar el servidor y podrás ver el proyecto en tu navegador.
 
